@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "trovixsmp.ddns.net",
+    "ip": "trovixsmp.aternos.me",
     "port": 33276,
     "version": "",
     "try-creative": false
